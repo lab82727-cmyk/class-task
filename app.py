@@ -1,2 +1,2 @@
-E290 "v1.0 is new features"
+E290 "v1.1 is new features"
 
